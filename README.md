@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://nexfinityhosting.com/assets/img/logo.svg" alt="NexFinity Hosting" width="150" />
+  <img src="https://avatars.githubusercontent.com/u/216578659?s=200&v=4" alt="NexFinity Hosting" width="150" />
 </p>
 
 <h1 align="center">🚀 NexFinity Hosting</h1>
